@@ -1,0 +1,44 @@
+_repo: Leaves-in-the-Wind_37858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardiner, A. G. (Alfred George)
+    aliases:
+    - Alpha of the plough
+    - Gardiner, Alfred George
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '3629'
+    url: http://www.gutenberg.org/2009/agents/3629
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_George_Gardiner
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Outdoor life'
+- !lcc 'PR'
+- !lcsh 'English essays -- 20th century'
+tableOfContents: A fellow traveller -- On a famous sermon -- On pockets and things
+  -- On a country platform -- On a distant view of a pig -- In defence of ignorance
+  -- On a shiny night -- On giving up tobacco -- The great god gun -- On a legend
+  of the war -- On talk and talkers -- On a vision of Eden -- On a comic genius --
+  On a vanished garden -- All about a dog -- On the American soldier -- 'Appy 'Einrich
+  -- On fear -- On being called Thompson -- On thinking for one's self -- On sawing
+  wood -- Variations on an old theme -- On clothes -- The duel that failed -- On early
+  rising -- On being known -- On a map of the Oberland -- On a talk in a bus -- On
+  virtues that don't count -- On hate and the soldier -- On taking the call -- A dithyramb
+  on a dog -- On happy faces in the Strand -- On word-magic -- Odin grown old -- On
+  a smile in a shaving glass -- On the rule of the road -- On the indifference of
+  nature -- If Jeremy came back -- On sleep and thought -- On mowing.
+title: Leaves in the Wind
+url: http://www.gutenberg.org/ebooks/37858
